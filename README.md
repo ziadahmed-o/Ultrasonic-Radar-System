@@ -33,7 +33,8 @@
 </p>
 
 ---
-
+### 💻 Arduino Code
+![Arduino Code](radar%20code.png)
 ## 📂 Project Directory Structure
 
 * `radar code.png` - Arduino source code logic.
